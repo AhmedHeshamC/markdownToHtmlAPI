@@ -9,6 +9,7 @@ marked.setOptions({
         const language = hljs.getLanguage(lang) ? lang : 'plaintext';
         return hljs.highlight(code, { language }).value;
     },
+    headerIds: false, // <-- Add this to disable header IDs
     langPrefix: 'hljs language-', // highlight.js css expects a top-level 'hljs' class.
     pedantic: false,
     gfm: true,

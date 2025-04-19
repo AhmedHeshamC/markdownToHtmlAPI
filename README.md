@@ -220,13 +220,23 @@ All endpoints return appropriate HTTP status codes and error messages in a consi
 }
 ```
 
-## License
-
-ISC
-
-## Author
-Ahmed Hesham
+---
 
 ## Project URLs
 - https://roadmap.sh/projects/markdown-note-taking-app
 - https://github.com/AhmedHeshamC/markdownToHtmlAPI
+
+---
+
+## 🤝 Contributing
+
+1. Fork the repo
+2. Create feature branch
+3. Write tests
+4. Submit a PR
+
+Please adhere to the existing code style and coverage requirements.
+
+---
+
+© 2025 Ahmed Hesham. MIT License.
